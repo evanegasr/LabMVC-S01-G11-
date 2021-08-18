@@ -78,7 +78,7 @@ while True:
 
     # TODO: Modificaciones para el laboratorio 1.
     elif int(inputs[0]) == 3:
-        print("se cargaron los book-tags")
+        print("se cargaron los book-tags.")
     else:
         sys.exit(0)
 sys.exit(0)
